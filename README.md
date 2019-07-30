@@ -1,3 +1,3 @@
-#MyProject
+# MyProject
 
-###Using Git Bash
+### Using Git Bash
